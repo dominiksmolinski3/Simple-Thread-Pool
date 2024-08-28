@@ -18,5 +18,5 @@ This repository contains a straightforward implementation of a thread pool in C+
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/simple-thread-pool.git
+git clone https://github.com/dominiksmolinski3/simple-thread-pool.git
 cd simple-thread-pool
